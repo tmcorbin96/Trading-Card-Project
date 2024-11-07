@@ -1,0 +1,52 @@
+
+body {
+    margin: auto;
+    border: 10px;
+    border-style: solid;
+    border-width: thin;
+    border-color: #D3D3D3;
+    padding:20px;
+
+}
+div{
+    background-color:#FFEFD5;
+    padding:20px;
+    width: 370px;
+    box-shadow: 10px 5px 10px #D3D3D3;
+    border-style: solid;
+    border-width:thin;
+    border-color: #D3D3D3;
+    margin: auto;
+
+}
+
+.container{
+    border-style: solid;
+    border-width:thin;
+    padding: 5px;
+    margin: auto;
+    border-color: #D3D3D3;
+    box-shadow:none;
+
+}
+
+.boldword{
+    font-weight: bold;
+}
+
+.otherfont{
+    font-family: "Garamond", serif;
+}
+
+ul{
+    list-style: none;
+}
+
+p{
+    font-family: "Papyrus",fantasy;
+}
+
+h3{
+    font-size: 30px;
+}
+/* add your CSS here */
